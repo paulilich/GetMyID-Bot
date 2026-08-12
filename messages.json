@@ -1,0 +1,71 @@
+{
+  "welcome_msg_en-US": "👋 Hey, <b>name</b>!\n\nI can show you the ID of almost anything in Telegram ✨\n\n🆔 Your ID: <code>user_id</code>\n\nJust forward me any message — I’ll tell you where it came from 🔍\nAll the magic is on the buttons below 👇",
+  "welcome_msg_es-ES": "👋 ¡Hola, <b>name</b>!\n\nPuedo mostrarte el ID de casi cualquier cosa en Telegram ✨\n\n🆔 Tu ID: <code>user_id</code>\n\nSolo reenvíame cualquier mensaje y te diré de dónde viene 🔍\nToda la magia está en los botones de abajo 👇",
+  "welcome_msg_kk-KZ": "👋 Сәлем, <b>name</b>!\n\nМен Telegram-дағы кез келген нәрсенің ID-ін көрсете аламын ✨\n\n🆔 Сіздің ID: <code>user_id</code>\n\nМаған кез келген хабарламаны жіберіңіз — қайдан келгенін айтамын 🔍\nБарлық мүмкіндіктер төмендегі батырмаларда 👇",
+  "welcome_msg_ru-RU": "👋 Привет, <b>name</b>!\n\nЯ умею показывать ID почти чего угодно в Telegram ✨\n\n🆔 Твой ID: <code>user_id</code>\n\nПросто перешли мне любое сообщение — скажу, откуда оно 🔍\nВся магия — на кнопках внизу 👇",
+
+  "select_language_en-US": "🌍 Please choose your language 👇",
+  "select_language_es-ES": "🌍 Por favor, elige tu idioma 👇",
+  "select_language_kk-KZ": "🌍 Тіліңізді таңдаңыз 👇",
+  "select_language_ru-RU": "🌍 Пожалуйста, выберите язык 👇",
+
+  "unknown_text_en-US": "😅 Oops, I don’t understand this text yet.\nPlease use the buttons below 👇",
+  "unknown_text_es-ES": "😅 Ups, todavía no entiendo este texto.\nPor favor, usa los botones de abajo 👇",
+  "unknown_text_kk-KZ": "😅 Кешіріңіз, бұл мәтінді әзірге түсінбеймін.\nТөмендегі батырмаларды пайдаланыңыз 👇",
+  "unknown_text_ru-RU": "😅 Ой, я пока не понимаю этот текст.\nИспользуй, пожалуйста, кнопки внизу 👇",
+
+  "language_set_en-US": "✅ Language successfully set!",
+  "language_set_es-ES": "✅ ¡Idioma establecido correctamente!",
+  "language_set_kk-KZ": "✅ Тіл сәтті орнатылды!",
+  "language_set_ru-RU": "✅ Язык успешно установлен!",
+
+  "chat_id_en-US": "💬 Chat ID: ",
+  "chat_id_es-ES": "💬 ID del chat: ",
+  "chat_id_kk-KZ": "💬 Чат ID: ",
+  "chat_id_ru-RU": "💬 ID чата: ",
+
+  "user_id_en-US": "👤 User ID: ",
+  "user_id_es-ES": "👤 ID de usuario: ",
+  "user_id_kk-KZ": "👤 Пайдаланушы ID: ",
+  "user_id_ru-RU": "👤 ID пользователя: ",
+
+  "your_id_en-US": "🆔 Your ID: ",
+  "your_id_es-ES": "🆔 Tu ID: ",
+  "your_id_kk-KZ": "🆔 Сіздің ID: ",
+  "your_id_ru-RU": "🆔 Твой ID: ",
+
+  "btn_myID_en-US": "🆔 My ID",
+  "btn_myID_es-ES": "🆔 Mi ID",
+  "btn_myID_kk-KZ": "🆔 Менің ID",
+  "btn_myID_ru-RU": "🆔 Мой ID",
+
+  "btn_userID_en-US": "👤 User ID",
+  "btn_userID_es-ES": "👤 ID de usuario",
+  "btn_userID_kk-KZ": "👤 Пайдаланушы ID",
+  "btn_userID_ru-RU": "👤 Юзер ID",
+
+  "btn_channelID_en-US": "📢 Channel ID",
+  "btn_channelID_es-ES": "📢 ID del canal",
+  "btn_channelID_kk-KZ": "📢 Арна ID",
+  "btn_channelID_ru-RU": "📢 ID канала",
+
+  "btn_groupID_en-US": "👥 Group ID",
+  "btn_groupID_es-ES": "👥 ID del grupo",
+  "btn_groupID_kk-KZ": "👥 Топ ID",
+  "btn_groupID_ru-RU": "👥 ID группы",
+
+  "change_language_en-US": "🌐 Change language",
+  "change_language_es-ES": "🌐 Cambiar idioma",
+  "change_language_kk-KZ": "🌐 Тілді өзгерту",
+  "change_language_ru-RU": "🌐 Сменить язык",
+
+  "btn_about_thisBot_en-US": "ℹ️ About this bot",
+  "btn_about_thisBot_es-ES": "ℹ️ Sobre este bot",
+  "btn_about_thisBot_kk-KZ": "ℹ️ Бот туралы",
+  "btn_about_thisBot_ru-RU": "ℹ️ О боте",
+
+  "about_thisBot_en-US": "ℹ️ This is a simple and useful bot for finding IDs in Telegram.\n\nWe store only the bare minimum: your user ID and the language you chose.\nNothing extra ❤️",
+  "about_thisBot_es-ES": "ℹ️ Este es un bot simple y útil para encontrar IDs en Telegram.\n\nSolo guardamos lo mínimo: tu ID de usuario y el idioma que elegiste.\nNada más ❤️",
+  "about_thisBot_kk-KZ": "ℹ️ Бұл Telegram-да ID табуға арналған қарапайым әрі пайдалы бот.\n\nБіз тек ең қажеттіні сақтаймыз: пайдаланушы ID және таңдалған тіл.\nАртық ештеңе жоқ ❤️",
+  "about_thisBot_ru-RU": "ℹ️ Это простой и полезный бот для поиска ID в Telegram.\n\nМы храним только самое необходимое: твой user ID и выбранный язык.\nНичего лишнего ❤️"
+}
